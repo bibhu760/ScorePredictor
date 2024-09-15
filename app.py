@@ -101,7 +101,7 @@ if st.button('Predict Score'):
     input_df=pd.DataFrame({
         'batting_team':[batting_team],
         'bowling_team':[bowling_team],
-        'city':city,
+        'city':[city],
         'Current_score':[current_score],
         'balls_left':[balls_left],
         'wickets_left':[wickets_left],
