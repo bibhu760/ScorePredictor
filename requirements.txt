@@ -1,3 +1,3 @@
 ﻿streamlit
-xgboost==2.2.1
+xgboost
 scikit-learn
